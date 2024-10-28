@@ -1,1 +1,17 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 85 53" xmlns="http://www.w3.org/2000/svg"><g fill="#fcd157"><path d="m3367.23 2992.53-17.9-36.56-23.49 5.47-21.02-59.72 26.95 41.95 25.84-8.2z" transform="matrix(.41659980525 -.07200611031 .07200611031 .41659980525 -1585.73388148 -952.061672153)"/><path d="m3367.23 2992.53-17.9-36.56-23.49 5.47-21.02-59.72 26.95 41.95 25.84-8.2z" transform="matrix(.37605295429 .19319513736 -.19319513736 .37605295429 -642.50993894 -1729.6800588)"/><path d="m3367.23 2992.53-17.9-36.56-23.49 5.47-21.02-59.72 26.95 41.95 25.84-8.2z" transform="matrix(.14401602561 .39749197596 -.39749197596 .14401602561 761.92988844 -1716.93756002)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="electric" transform="matrix(0.422777,0,0,0.422777,-1391.55,-1188.95)">
+        <g>
+            <g transform="matrix(0.985389,-0.170317,0.170317,0.985389,-455.24,614.911)">
+                <path d="M3367.23,2992.53L3349.33,2955.97L3325.84,2961.44L3304.82,2901.72L3331.77,2943.67L3357.61,2935.47L3367.23,2992.53Z" style="fill:rgb(250,191,41);"/>
+            </g>
+            <g transform="matrix(0.889483,0.456967,-0.456967,0.889483,1775.78,-1224.4)">
+                <path d="M3367.23,2992.53L3349.33,2955.97L3325.84,2961.44L3304.82,2901.72L3331.77,2943.67L3357.61,2935.47L3367.23,2992.53Z" style="fill:rgb(250,191,41);"/>
+            </g>
+            <g transform="matrix(0.340643,0.940193,-0.940193,0.340643,5097.72,-1194.26)">
+                <path d="M3367.23,2992.53L3349.33,2955.97L3325.84,2961.44L3304.82,2901.72L3331.77,2943.67L3357.61,2935.47L3367.23,2992.53Z" style="fill:rgb(250,191,41);"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 11 26" xmlns="http://www.w3.org/2000/svg"><path d="m3446.95 2952.56-18.99 35.99-6.26 38.98 20.84 23.79 12.76.71 16.77-19.51-6.8-44.14z" fill="#109ba8" transform="matrix(.214512 0 0 .251464 -733.994 -742.4616)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.214512,0,0,0.251464,-679.838,-677.128)">
+        <g id="sweat-drop">
+            <path d="M3446.95,2952.56L3427.96,2988.55L3421.7,3027.53L3442.54,3051.32L3455.3,3052.03L3472.07,3032.52L3465.27,2988.38L3446.95,2952.56Z" style="fill:rgb(153,213,233);"/>
+        </g>
+    </g>
+</svg>

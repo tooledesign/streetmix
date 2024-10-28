@@ -1,1 +1,10 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 36 34" xmlns="http://www.w3.org/2000/svg"><g fill="#ae2025" transform="matrix(1.06893 0 0 1.06893 -3667.42598 -3185.7528)"><path d="m3434.03 2986.26 5.58 6.42-8.66 3.32 2.71 4.37 11.31-5.98-4.77-10.33z"/><path d="m3445.22 2982.76 3.96 10.14 11.62-3.44-2.02-5.7-7.33 4.54-1.79-7.96z"/><path d="m3451.07 2996.81 3.07 11.45 5.52-2.76-3.94-6.84 8.13-1.49-1.23-5.04z"/><path d="m3435.82 3004.37 10.52-6.09 4.38 11.26-4.91 2.08-1.48-6.91-6.57 4.23z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="vein-pop" transform="matrix(1.06893,0,0,1.06893,-3662.74,-3135.92)">
+        <path d="M3434.03,2986.26L3439.61,2992.68L3430.95,2996L3433.66,3000.37L3444.97,2994.39L3440.2,2984.06L3434.03,2986.26Z" style="fill:rgb(238,49,36);"/>
+        <path d="M3445.22,2982.76L3449.18,2992.9L3460.8,2989.46L3458.78,2983.76L3451.45,2988.3L3449.66,2980.34L3445.22,2982.76Z" style="fill:rgb(238,49,36);"/>
+        <path d="M3451.07,2996.81L3454.14,3008.26L3459.66,3005.5L3455.72,2998.66L3463.85,2997.17L3462.62,2992.13L3451.07,2996.81Z" style="fill:rgb(238,49,36);"/>
+        <path d="M3435.82,3004.37L3446.34,2998.28L3450.72,3009.54L3445.81,3011.62L3444.33,3004.71L3437.76,3008.94L3435.82,3004.37Z" style="fill:rgb(238,49,36);"/>
+    </g>
+</svg>
